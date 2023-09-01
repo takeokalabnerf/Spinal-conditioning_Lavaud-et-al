@@ -7,7 +7,8 @@ Install the **blueimp-tmpl** package with [NPM](https://www.npmjs.org/):
 ```sh
 npm install blueimp-tmpl
 ```
-
+> tset etses tsetses
+> 
 Include the (minified) JavaScript Templates script in your HTML markup:
 
 ```html
