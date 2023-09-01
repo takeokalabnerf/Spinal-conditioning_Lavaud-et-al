@@ -2,6 +2,18 @@
 
 *WARNING*: If you are reviewing this paper as a manuscript __DO NOT__ star or fork the repo containing this file as it is deanonymizing. You are welcome to clone the repo as written in the .ipynb as this is anonymized. 
 
+Install the **blueimp-tmpl** package with [NPM](https://www.npmjs.org/):
+
+```sh
+npm install blueimp-tmpl
+```
+
+Include the (minified) JavaScript Templates script in your HTML markup:
+
+```html
+<script src="js/tmpl.min.js"></script>
+```
+
 <h1> Two distinct inhibitory neuronal classes govern acquisition and recall of spinal sensorimotor learning </h1>
 <h2> Code repository for kinematic analysis </h2>
 <h3> Step 1: Data </h3>
