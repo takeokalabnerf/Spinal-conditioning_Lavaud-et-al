@@ -81,3 +81,7 @@ To run the PCA of En1ON and its subpopulation (S10D), you can also use the .csv 
 > PCA_kinematic_En1_and_subpopulation.csv
 
 and follow the same process as with the PCA for WT animals.
+
+## Step 5: Extract the Interference score 
+
+## Step 6: Extract the number of cues to learning criterion
