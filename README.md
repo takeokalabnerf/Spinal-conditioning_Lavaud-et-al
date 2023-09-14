@@ -82,6 +82,20 @@ To run the PCA of En1ON and its subpopulation (S10D), you can also use the .csv 
 
 and follow the same process as with the PCA for WT animals.
 
-## Step 5: Extract the Interference score 
+## Step 5: Extract the Interference score
+For figure S9B, please run the code:
+```sh
+Plot_kinematic_10min_experiments.m
+```
+If the code is run only with one specific population, you can extract the variable:
+> perc_below_thres_master
+It will give you the percentage of the time spend below the threshold by the foot joint of the animal, i.e the interference score.
 
 ## Step 6: Extract the number of cues to learning criterion
+For figure 5D, 5G, 5I, S10B and S10C, please run the code:
+```sh
+Plot_kinematic_10min_experiments.m
+```
+If the code is run only with one specific population, you can extract the variable:
+> sum(shock_received)
+It will give you the amount of cues received by your population of interest, then you can extract it to plot the number of cues to learning criterion.
